@@ -14,5 +14,5 @@ Para ver este proyecto tienes que clonar el repositorio completo
 
 ## Autor
 
-Creado por [Maycol Lopez] (https://github.com/maycollopezh) - 
+Creado por [Maycol Lopez](https://github.com/maycollopezh) - 
 ¡Si te gusta el proyecto, no dudes en contactarme!
