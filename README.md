@@ -10,7 +10,7 @@ En este documento incluimos las siguientes etiquetas:
 - ol
 - li
 
-Para ver este proyecto tienes que dar click en el siguiente enlace [enlace](https://maycollopezh.github.io/mi-portafolio/).
+Para ver este proyecto tienes que dar click en el siguiente [enlace](https://maycollopezh.github.io/mi-portafolio/).
 
 ## Autor
 
